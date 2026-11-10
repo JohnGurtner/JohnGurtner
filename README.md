@@ -1,4 +1,4 @@
-# Hi, I'm Jack Gurtner
+# Hi, I'm John Gurtner
 
 **Cybersecurity student at Purdue University** | Offense + defense | Hands-on home & course labs
 
