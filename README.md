@@ -12,13 +12,13 @@ I’m a cybersecurity student at Purdue building hands-on experience across offe
 
 ## Featured projects
 
-| Project | What it proves |
+| Project | Purpose |
 | --- | --- |
+| [windows-enterprise-admin](https://github.com/JohnGurtner/windows-enterprise-admin) | Built a two-site Windows/AD enterprise end to end: Nutanix clusters, P2V migration of every DC, FSMO transfers, AGDLP permissions, GPOs, TrueNAS backups, WSUS, DFS, and tiered IIS access |
+| [network-fundamentals](https://github.com/JohnGurtner/network-fundamentals) | Built a 3-switch Cisco/HP network from factory reset, mirrored traffic with SPAN to capture another host's DNS/TLS in Wireshark, and measured speed/duplex effects |
 | [attack-and-harden-lab](https://github.com/JohnGurtner/attack-and-harden-lab) | Exploited Redis, SQLi, sudo privesc & a cron job, then patched every path and verified |
 | [linux-os-hardening](https://github.com/JohnGurtner/linux-os-hardening) | Built and applied an 8-point Linux hardening baseline with before/after verification |
 | [aws-cloud-security](https://github.com/JohnGurtner/aws-cloud-security) | IAM users/roles/policies, KMS keys, and S3 + EBS encryption in AWS |
-| [windows-enterprise-admin](https://github.com/JohnGurtner/windows-enterprise-admin) | Built a two-site Windows/AD enterprise end to end: Nutanix clusters, P2V migration of every DC, FSMO transfers, AGDLP permissions, GPOs, TrueNAS backups, WSUS, DFS, and tiered IIS access |
-| [network-fundamentals](https://github.com/JohnGurtner/network-fundamentals) | Built a 3-switch Cisco/HP network from factory reset, mirrored traffic with SPAN to capture another host's DNS/TLS in Wireshark, and measured speed/duplex effects |
 
 ## All projects
 
