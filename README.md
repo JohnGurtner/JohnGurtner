@@ -2,9 +2,7 @@
 
 **Cybersecurity student at Purdue University** | Offense + defense | Hands-on home & course labs
 
-I build and break systems in the lab, then harden them back — and I write up every lab like
-real documentation so you can see exactly what I did and why. Coursework spans applied security,
-cloud, Windows enterprise administration, Linux system administration, and networking.
+I’m a cybersecurity student at Purdue building hands-on experience across offense and defense: penetration testing, Linux and Windows hardening, AWS security, and detection engineering. Each project includes the setup, findings, and what I’d change in a real environment.
 
 ## What I work with
 
