@@ -2,7 +2,7 @@
 
 **Cybersecurity student at Purdue University** | Offense + defense | Hands-on home & course labs
 
-I’m a cybersecurity student at Purdue building hands-on experience across offense and defense: penetration testing, Linux and Windows hardening, AWS security, and detection engineering. Each project includes the setup, findings, and what I’d change in a real environment.
+I'm a cybersecurity student at Purdue University with a passion for both offensive and defensive security. Through hands-on projects and coursework, I'm developing practical experience in penetration testing, system hardening, cloud security, and threat detection. I use this GitHub to document my projects, share what I've learned, and demonstrate how I approach security challenges.
 
 ## What I work with
 
